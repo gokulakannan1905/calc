@@ -1,6 +1,6 @@
 [package]
 name = "g_calc"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
 description = "A small utility for performing simple math calculations using infix expression"

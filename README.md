@@ -6,7 +6,7 @@ Simple calculator utility written in rust
 Add this to your Cargo.toml:
 
     [dependencies]
-    g_calc = "0.1.0"
+    g_calc = "0.1.1"
 
 ## Usage
 
